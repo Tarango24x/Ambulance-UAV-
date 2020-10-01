@@ -1,0 +1,5 @@
+Drone Code: https://github.com/ArduPilot/ardupilot/tree/master/ArduCopter?fbclid=IwAR2Eb7lqasOx2KO6odjXT6h8AuQjR6SOWj88fQsE69jMjS7K7t8okvYkvW4
+
+Liberies: 1.https://github.com/bblanchon/ArduinoJson
+          2.https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+          3.https://github.com/FirebaseExtended/firebase-arduino
